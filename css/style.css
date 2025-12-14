@@ -1,1 +1,56 @@
+/* Общий шрифт */
+body {
+  font-family: 'Montserrat', sans-serif;
+  margin: 0;
+}
+
+/* Фон секции Title */
+#title {
+  background-color: #ff3c68;
+  color: #fff;
+  padding: 5rem 0;
+}
+
+/* Заголовок */
+#title h1 {
+  font-family: 'Montserrat', sans-serif;
+  font-weight: 900; /* Montserrat-Black */
+  font-size: 3rem;
+  line-height: 1.5;
+}
+
+/* Кнопки */
+.download-button {
+  margin: 5% 3% 0 5%;
+}
+
+/* Лого сайта */
+.navbar-brand {
+  font-family: 'Ubuntu', sans-serif;
+  font-size: 2.5rem;
+  font-weight: bold;
+}
+
+/* Отступ снизу для navbar */
+.navbar {
+  padding-bottom: 4.5rem;
+}
+
+/* Расстояние между ссылками */
+.nav-item {
+  padding: 0 18px;
+}
+
+/* Ссылки */
+.nav-link {
+  font-family: 'Montserrat', sans-serif;
+  font-weight: 300;
+  font-size: 1.1rem;
+}
+
+/* Картинка телефона */
+.title-image {
+  width: 60%;
+  transform: rotate(25deg);
+}
 
